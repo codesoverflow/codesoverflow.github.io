@@ -1,3 +1,3 @@
 lsi: false
 safe: true
-include: [_next, _app-*.js]
+include: [_next, _app-*.js, _buildManifest.js, _ssgManifest.js]
