@@ -1,6 +1,5 @@
 {
- "short_name": "Expense Tracker App",
-  "name": "Expense Tracker App",
+ "name": "App",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
